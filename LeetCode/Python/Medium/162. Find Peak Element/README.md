@@ -1,6 +1,6 @@
 # 📝 162. Find Peak Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-peak-element/)
+🔗 [Problem Link](https://leetcode.com/problems/find-peak-element/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

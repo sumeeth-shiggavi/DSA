@@ -1,5 +1,6 @@
 class Solution:
     def findPeakElement(self,nums):
+        
         l=0
         r=len(nums)-1
         m=0
