@@ -8,7 +8,7 @@ class Solution:
             if nums[m] > nums[m-1] and nums[m] > nums[m+1]:
                 return m
             elif nums[m] > nums[m-1] and nums[m] < nums[m+1]:
-                l=m + 
+                l=m + 1
             else:
-                r=m
+                r=m -1
         
