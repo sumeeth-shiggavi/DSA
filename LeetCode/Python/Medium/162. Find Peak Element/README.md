@@ -1,6 +1,6 @@
 # 📝 162. Find Peak Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-peak-element/solutions/6208877/best-solution-for-arrays-in-c-python-and-nw8p/)
+🔗 [Problem Link](https://leetcode.com/problems/find-peak-element/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
