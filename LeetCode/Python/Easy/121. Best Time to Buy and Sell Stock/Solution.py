@@ -1,7 +1,7 @@
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
         b=prices[0]
-        s
+        s=0
         for i in range(1, len(prices)):
             if prices[i]< b:
                 b=prices[i]
