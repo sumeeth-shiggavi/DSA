@@ -2,7 +2,7 @@ class Solution:
     def maxProfit(self, prices: list[int]) -> int:
         b=prices[0]
         s=prices[0]
-        max
+        maxprofit=0
         for i in range(0, len(prices)):
             if prices[i]<=b:
                 b=prices[i]
@@ -10,4 +10,5 @@ class Solution:
                 for j in range(i+1, len(prices)):
                     if prices[j]>s:
                         s=prices[j]
-        return s-b
+                    maxprofit=max(maxprofit, s-b)    
+        return maxprofit
