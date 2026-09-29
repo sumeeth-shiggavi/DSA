@@ -3,7 +3,7 @@ class Solution:
         b=prices[0]
         s=prices[0]
         for i in range(0, len(prices)):
-            if prices[i]< b:
+            if prices[i]<=b:
                 b=prices[i]
                 s=prices[i]
                 for j in range(i+1, len(prices)):
